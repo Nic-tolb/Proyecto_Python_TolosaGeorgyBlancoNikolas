@@ -1,0 +1,31 @@
+{
+  "gastos": [
+    {
+      "categoria": "comida",
+      "monto": 50000.0,
+      "descripcion": "",
+      "fecha": "2026-01-22 21:11:56"
+    },
+    {
+      "categoria": "gasolina",
+      "monto": 20000.0,
+      "descripcion": "",
+      "fecha": "2026-01-22 21:12:56"
+    },
+    {
+      "categoria": "transporte",
+      "monto": 4000.0,
+      "descripcion": "",
+      "fecha": "2026-01-22 21:13:19"
+    },
+    {
+      "categoria": "comida",
+      "monto": 5000.0,
+      "descripcion": "cincomil de pan",
+      "fecha": "2026-01-22 21:13:38"
+    }
+  ],
+  "categorias_personalizadas": [
+    "gasolina"
+  ]
+}

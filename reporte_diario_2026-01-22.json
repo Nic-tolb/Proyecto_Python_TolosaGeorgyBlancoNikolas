@@ -1,0 +1,11 @@
+{
+  "periodo": "diario",
+  "fecha_generacion": "2026-01-22 21:13:44",
+  "total_gastos": 79000.0,
+  "por_categoria": {
+    "comida": 55000.0,
+    "gasolina": 20000.0,
+    "transporte": 4000.0
+  },
+  "cantidad_transacciones": 4
+}
